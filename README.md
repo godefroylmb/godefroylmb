@@ -1,7 +1,8 @@
-## 👋 Hello World!
+## 👋 Hello there!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godefroy-lambert/)
 [![GitHub](https://img.shields.io/github/followers/tonpseudo?label=follow&style=social)](https://github.com/godefroylmb)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ludmin)
 
 
 ---
