@@ -1,7 +1,7 @@
 ## 👋 Hello there!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godefroy-lambert/)
-[![GitHub](https://img.shields.io/github/followers/tonpseudo?label=follow&style=social)](https://github.com/godefroylmb)
+[![GitHub](https://img.shields.io/github/followers/godefroylmb?label=follow&style=social)](https://github.com/godefroylmb)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/ludmin)
 
 
@@ -58,4 +58,4 @@ Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com
 
 ---
 
-_Last updated on: 24/07/2025_
+_Last updated on: 28/09/2025_
