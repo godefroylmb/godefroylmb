@@ -11,7 +11,7 @@ My name is **Godefroy**, I'm a Data Science graduate from **Institut Polytechniq
 
 I love working on data-centric projects, exploring research papers, and turning abstract ideas into robust, production-ready pipelines. Recently, I’ve been building an image analysis pipeline for ladybug classification.
 
-🎯 I'm currently wroking as a Data Consultant at SBI !
+🎯 I'm currently working as a Data Consultant at SBI !
 
 I'm passionate about:
 - 🧠 Applying ML/AI to real-world problems
