@@ -11,7 +11,7 @@ My name is **Godefroy**, I'm a Data Science graduate from **Institut Polytechniq
 
 I love working on data-centric projects, exploring research papers, and turning abstract ideas into robust, production-ready pipelines. Recently, I’ve been building an image analysis pipeline for ladybug classification.
 
-🎯 I'm currently looking for a job as a **Data Scientist**!
+🎯 I'm currently wroking as a Data Consultant at SBI !
 
 I'm passionate about:
 - 🧠 Applying ML/AI to real-world problems
@@ -25,9 +25,9 @@ I'm passionate about:
 
 ### 🚀 Currently working on:
 
-- 📸 My portfolio website
-- 🤖 Learning more about **OCR** & document analysis
-- 📊 Improving my MLflow/MLOps practices
+- 🧱 Modernizing my **Billboard project** to make the pipeline more robust, modular, and reusable for future data products
+- 🎧 Exploring **content-based recommendation systems** using **NLP and topic modeling**
+- 🔍 Deepening my understanding of **ML experimentation, tracking, and reproducibility with MLflow**
 
 ---
 
@@ -58,4 +58,4 @@ Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com
 
 ---
 
-_Last updated on: 28/09/2025_
+_Last updated on: 06/03/2026_
